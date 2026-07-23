@@ -1,11 +1,14 @@
+import { abrirCorreo } from '../utils/contacto'
+
 export function ContactarButton() {
   return (
-    <a
-      href="#contacto"
-      className="ffvii-card flex h-full items-center justify-center p-6 text-center font-bold hover:bg-white/10"
+    <button
+      type="button"
+      onClick={abrirCorreo}
+      className="ffvii-card flex h-full w-full items-center justify-center p-6 text-center font-bold hover:bg-white/10"
     >
       Contactar
-    </a>
+    </button>
   )
 }
 

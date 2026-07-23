@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import placeholder from '../../assets/placeholder.png'
 
 function ConsolasList({ franquicia, consolas }) {
@@ -22,12 +23,12 @@ function ConsolasList({ franquicia, consolas }) {
               <div>
                 <p className="font-bold">{consola.nombre}</p>
                 <p className="text-sm text-gray-300">{consola.descripcion}</p>
-                <a
-                  href={`#/franquicia/${franquicia}/consola/${consola.slug}`}
+                <Link
+                  to={`/franquicia/${franquicia}/consola/${consola.slug}`}
                   className="mt-2 inline-block font-bold text-cyan-300 hover:underline"
                 >
                   Ver modificaciones ↗
-                </a>
+                </Link>
               </div>
             </div>
           ))
