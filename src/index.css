@@ -1,1 +1,72 @@
 @import "tailwindcss";
+
+@theme {
+  --text-xs: 0.875rem;
+  --text-xs--line-height: 1.25rem;
+
+  --text-sm: 1rem;
+  --text-sm--line-height: 1.5rem;
+
+  --text-base: 1.125rem;
+  --text-base--line-height: 1.75rem;
+
+  --text-lg: 1.25rem;
+  --text-lg--line-height: 1.875rem;
+
+  --text-xl: 1.375rem;
+  --text-xl--line-height: 1.875rem;
+
+  --text-2xl: 1.625rem;
+  --text-2xl--line-height: 2.125rem;
+
+  --text-3xl: 2rem;
+  --text-3xl--line-height: 2.375rem;
+}
+
+.ffvii-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr auto;
+  grid-template-areas:
+    "perfil contactar"
+    "perfil magic"
+    "desc desc"
+    "franquicia franquicia"
+    "mods mods"
+    "footer footer";
+}
+
+@media (min-width: 1024px) {
+  .ffvii-grid {
+    grid-template-columns: 1fr 30rem;
+    grid-template-areas:
+      "perfil contactar"
+      "perfil magic"
+      "desc desc"
+      "mods franquicia"
+      "mods footer";
+  }
+
+  .area-franquicia { align-self: start; }
+  .area-footer { align-self: start; }
+  .area-mods { overflow: hidden; }
+}
+
+.area-perfil { grid-area: perfil; }
+.area-contactar { grid-area: contactar; }
+.area-magic { grid-area: magic; }
+.area-desc { grid-area: desc; }
+.area-franquicia {
+  grid-area: franquicia;
+  min-height: 0;
+}
+.area-footer { grid-area: footer; }
+.area-mods {
+  grid-area: mods;
+  min-height: 0;
+}
+
+.ffvii-card {
+  border: 1px solid rgba(203, 213, 225, 0.7);
+  background: rgba(0, 0, 0, 0.15);
+}

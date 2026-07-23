@@ -1,0 +1,194 @@
+{
+  "sega": [
+    {
+      "nombre": "Dreamcast",
+      "slug": "dreamcast",
+      "descripcion": "La joya de SEGA. Especialidad de la casa.",
+      "imagen": "img/placeholder.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$xxx.xx MXN",
+          "imagen": "img/placeholder.png"
+        },
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$xxx.xx MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Saturn",
+      "slug": "saturn",
+      "descripcion": "Descripción corta de la consola.",
+      "imagen": "img/placeholder.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$xxx.xx MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Mega Drive",
+      "slug": "mega-drive",
+      "descripcion": "Descripción corta de la consola.",
+      "imagen": "img/placeholder.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$xxx.xx MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    }
+  ],
+  "nintendo": [
+    {
+      "nombre": "Switch",
+      "slug": "switch",
+      "descripcion": "Descripción corta de la consola.",
+      "imagen": "img/placeholder.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$xxx.xx MXN",
+          "imagen": "img/placeholder.png"
+        },
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$xxx.xx MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Nintendo 64",
+      "slug": "nintendo-64",
+      "descripcion": "Descripción corta de la consola.",
+      "imagen": "img/placeholder.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$xxx.xx MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Game Boy Advance",
+      "slug": "game-boy-advance",
+      "descripcion": "Descripción corta de la consola.",
+      "imagen": "img/placeholder.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$xxx.xx MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    }
+  ],
+  "playstation": [
+    {
+      "nombre": "PlayStation 2",
+      "slug": "playstation-2",
+      "descripcion": "Descripción corta de la consola.",
+      "imagen": "img/placeholder.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$xxx.xx MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "PSP",
+      "slug": "psp",
+      "descripcion": "Descripción corta de la consola.",
+      "imagen": "img/placeholder.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$xxx.xx MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    }
+  ],
+  "xbox": [
+    {
+      "nombre": "Xbox Series X",
+      "slug": "xbox-series-x",
+      "descripcion": "Descripción corta de la consola.",
+      "imagen": "img/placeholder.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$xxx.xx MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Xbox 360",
+      "slug": "xbox-360",
+      "descripcion": "Descripción corta de la consola.",
+      "imagen": "img/placeholder.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$xxx.xx MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    }
+  ],
+  "neogeo": [
+    {
+      "nombre": "Neo Geo AES",
+      "slug": "neo-geo-aes",
+      "descripcion": "Descripción corta de la consola.",
+      "imagen": "img/placeholder.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$xxx.xx MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    }
+  ],
+  "arcade": [
+    {
+      "nombre": "Placa Arcade JAMMA",
+      "slug": "placa-arcade-jamma",
+      "descripcion": "Descripción corta de la consola.",
+      "imagen": "img/placeholder.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$xxx.xx MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    }
+  ]
+}
