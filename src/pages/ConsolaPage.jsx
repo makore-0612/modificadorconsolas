@@ -17,7 +17,7 @@ function ConsolaPage({ datos }) {
         <div className="ffvii-card space-y-3 p-4 text-center sm:p-6">
           <p className="font-bold">No se encontró esa consola.</p>
           <Link to="/" className="inline-block text-cyan-300 hover:underline">
-            ←General Store
+            <p className = "underline decoration-gray-300">← General Store</p>
           </Link>
         </div>
       </div>
@@ -35,7 +35,7 @@ function ConsolaPage({ datos }) {
             to="/"
             className="ffvii-card flex items-center justify-center p-4 text-center font-bold hover:bg-white/10 sm:p-6"
           >
-            ←General Store
+            <p className = "underline decoration-gray-300">← General Store</p>
           </Link>
         </div>
 

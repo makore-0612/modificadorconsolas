@@ -11,7 +11,4 @@ export function abrirCorreo() {
 
 export const INSTAGRAM_URL = 'https://www.instagram.com/elmodificador'
 export const FACEBOOK_URL = 'https://www.facebook.com/atomboy42'
-
-// WhatsApp omite el "1" de móvil que usan los números de MX al marcar desde el
-// extranjero; wa.me lo rechaza si se incluye.
 export const WHATSAPP_URL = 'https://wa.me/525527212361'

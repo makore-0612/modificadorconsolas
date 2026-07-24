@@ -6,7 +6,7 @@ function PerfilCard() {
       <img
         src={pfp}
         alt="Foto de perfil"
-        className="h-20 w-20 shrink-0 border border-gray-300 object-cover sm:h-35 sm:w-35"
+        className="h-40 w-20 shrink-0 border border-gray-300 object-cover sm:h-35 sm:w-35"
       />
       <div className="space-y-1">
         <p className="text-lg font-bold sm:text-3xl">Javier Zamora</p>
@@ -16,11 +16,25 @@ function PerfilCard() {
         </p>
         <p>
           <span className="text-cyan-300 sm:text-lg">HP</span>{' '}
-          <span className="underline decoration-cyan-300 sm:text-lg">2345/2345</span>
+          <span
+            className="sm:text-lg bg-no-repeat bg-bottom bg-[length:100%_3px] pb-1"
+            style={{
+              backgroundImage: 'linear-gradient(to right, #22c55e, #eab308, #ef4444)'
+            }}
+          >
+            2345/2345
+          </span>
         </p>
         <p>
           <span className="text-cyan-300 sm:text-lg">MP</span>{' '}
-          <span className="underline decoration-cyan-300 sm:text-lg">559/559</span>
+          <span
+            className="sm:text-lg bg-no-repeat bg-bottom bg-[length:100%_3px] pb-1"
+            style={{
+              backgroundImage: 'linear-gradient(to right, #22c55e, #eab308, #ef4444)'
+            }}
+          >
+            559/559
+          </span>
         </p>
       </div>
     </div>

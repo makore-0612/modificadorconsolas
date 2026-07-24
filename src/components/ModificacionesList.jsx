@@ -18,7 +18,7 @@ function ModificacionesList({ modificaciones }) {
                 src={`${import.meta.env.BASE_URL}${item.imagen}`}
                 onError={(e) => { e.currentTarget.src = placeholder }}
                 alt=""
-                className="h-50 w-50 shrink-0 border border-gray-300 object-cover"
+                className="h-50 w-25 shrink-0 border border-gray-300 object-cover sm:h-50 sm:w-50"
               />
               <div>
                 <p className="font-bold sm:text-xl">{item.nombre}</p>

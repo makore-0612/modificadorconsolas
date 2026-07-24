@@ -3,8 +3,8 @@
     {
       "nombre": "Dreamcast",
       "slug": "dreamcast",
-      "descripcion": "La joya de SEGA. Especialidad de la casa.",
-      "imagen": "img/placeholder.png",
+      "descripcion": "La joya de SEGA. Especialidad de la casa (Imagen propia de customización).",
+      "imagen": "img/dreamcast.jpeg",
       "modificaciones": [
         {
           "nombre": "Nombre de la modificación",
@@ -21,8 +21,22 @@
       ]
     },
     {
-      "nombre": "Saturn",
-      "slug": "saturn",
+      "nombre": "SG-1000",
+      "slug": "sg-1000",
+      "descripcion": "El salto de los Arcade a lo doméstico.",
+      "imagen": "img/placeholder.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Master System",
+      "slug": "master-system",
       "descripcion": "Descripción corta de la consola.",
       "imagen": "img/placeholder.png",
       "modificaciones": [
@@ -35,8 +49,50 @@
       ]
     },
     {
-      "nombre": "Mega Drive",
-      "slug": "mega-drive",
+      "nombre": "Mega Drive/Genesis, 32X",
+      "slug": "genesis",
+      "descripcion": "Descripción corta de la consola.",
+      "imagen": "img/placeholder.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Game Gear",
+      "slug": "game-gear",
+      "descripcion": "Descripción corta de la consola.",
+      "imagen": "img/placeholder.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Mega CD/SEGA CD",
+      "slug": "sega-cd",
+      "descripcion": "Descripción corta de la consola.",
+      "imagen": "img/placeholder.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "SEGA Saturn",
+      "slug": "saturn",
       "descripcion": "Descripción corta de la consola.",
       "imagen": "img/placeholder.png",
       "modificaciones": [
@@ -51,10 +107,10 @@
   ],
   "nintendo": [
     {
-      "nombre": "Switch",
-      "slug": "switch",
-      "descripcion": "Descripción corta de la consola.",
-      "imagen": "img/placeholder.png",
+      "nombre": "Nintendo Entertaiment System (NES)",
+      "slug": "nes",
+      "descripcion": "El hogar que dio origen a muchas leyendas.",
+      "imagen": "img/nes.png",
       "modificaciones": [
         {
           "nombre": "Nombre de la modificación",
@@ -71,10 +127,94 @@
       ]
     },
     {
+      "nombre": "Family Computer",
+      "slug": "famicom",
+      "descripcion": "Seguro solo la conocías por su gemelo americano.",
+      "imagen": "img/famicom.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Game Boy",
+      "slug": "game-boy",
+      "descripcion": "Jugarlo de noche es toda una odisea.",
+      "imagen": "img/gameboy.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Super FamiCom",
+      "slug": "super-famicom",
+      "descripcion": "Qué afán de nombrar una consola dependiendo la región.",
+      "imagen": "img/sfamicom.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Super NES",
+      "slug": "super-nes",
+      "descripcion": "Ya sabemos que la pusimos dos veces en la lista.",
+      "imagen": "img/snes.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
       "nombre": "Nintendo 64",
-      "slug": "nintendo-64",
-      "descripcion": "Descripción corta de la consola.",
-      "imagen": "img/placeholder.png",
+      "slug": "n64",
+      "descripcion": "¿Eres de los que se atrevieron a lanzar al pingüino o de los que no pudieron pasar el Templo del Agua?",
+      "imagen": "img/n64.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Game Boy Color",
+      "slug": "game-boy-color",
+      "descripcion": "Aunque no lo parezca, si cambia algo además del color en la carcasa.",
+      "imagen": "img/gameboyc.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Nintendo GameCube",
+      "slug": "gamecube",
+      "descripcion": "No volverá a existir nada como el Double Dash (Imagen propia de customización).",
+      "imagen": "img/gamecube.png",
       "modificaciones": [
         {
           "nombre": "Nombre de la modificación",
@@ -87,8 +227,92 @@
     {
       "nombre": "Game Boy Advance",
       "slug": "game-boy-advance",
-      "descripcion": "Descripción corta de la consola.",
-      "imagen": "img/placeholder.png",
+      "descripcion": "¿Otra más, Nintendo?",
+      "imagen": "img/gameboya.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Nintendo DS/DSi",
+      "slug": "ds",
+      "descripcion": "¿Cómo iba a saber que debía cerrar la consola en Phantom Hourglass?",
+      "imagen": "img/ds.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Nintendo Wii",
+      "slug": "wii",
+      "descripcion": "¿Estrellaste el WiiMote en tu pantalla? (Imagen propia de customización)",
+      "imagen": "img/wii.jpeg",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Nintendo 3DS",
+      "slug": "3ds",
+      "descripcion": "La mitad del tiempo olvidabas que existía el 3D.",
+      "imagen": "img/3ds.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Wii U",
+      "slug": "wii-u",
+      "descripcion": "De las consolas más subestimadas, con una enorme capacidad.",
+      "imagen": "img/wiiu.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Nintendo Switch",
+      "slug": "switch",
+      "descripcion": "Si estás aquí muy probablemente tus JoyCon ya tienen drift.",
+      "imagen": "img/switch.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Nintendo Switch 2",
+      "slug": "switch-2",
+      "descripcion": "Es lo mismo, pero en diferente forma.",
+      "imagen": "img/switch2.png",
       "modificaciones": [
         {
           "nombre": "Nombre de la modificación",
@@ -293,6 +517,64 @@
       "slug": "placa-arcade-jamma",
       "descripcion": "Descripción corta de la consola.",
       "imagen": "img/placeholder.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    }
+  ],
+  "otros": [
+    {
+      "nombre": "Computadoras personales",
+      "slug": "pcs",
+      "descripcion": "Ánimo, en algún momento la RAM volverá a ser económica. Posiblemente.",
+      "imagen": "img/pcescritorio.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Laptops",
+      "slug": "laptops",
+      "descripcion": "El teclado está tan caliente que ya no puedes ni escribir, ¿Cierto?.",
+      "imagen": "img/laptop.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Teléfonos celulares",
+      "slug": "celulares",
+      "descripcion": "No te preocupes, puede que exista salvación a la pantalla estrellada.",
+      "imagen": "img/celular.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Pantallas",
+      "slug": "pantallas",
+      "descripcion": "Entendemos, también han fallado los LEDs de nuestra pantalla y ya no dio video.",
+      "imagen": "img/pantalla.png",
       "modificaciones": [
         {
           "nombre": "Nombre de la modificación",
