@@ -9,13 +9,13 @@
         {
           "nombre": "Nombre de la modificación",
           "descripcion": "Descripción de la modificación",
-          "precio": "$xxx.xx MXN",
+          "precio": "$3,141.53 MXN",
           "imagen": "img/placeholder.png"
         },
         {
           "nombre": "Nombre de la modificación",
           "descripcion": "Descripción de la modificación",
-          "precio": "$xxx.xx MXN",
+          "precio": "$3,141.53 MXN",
           "imagen": "img/placeholder.png"
         }
       ]
@@ -29,7 +29,7 @@
         {
           "nombre": "Nombre de la modificación",
           "descripcion": "Descripción de la modificación",
-          "precio": "$xxx.xx MXN",
+          "precio": "$3,141.53 MXN",
           "imagen": "img/placeholder.png"
         }
       ]
@@ -43,7 +43,7 @@
         {
           "nombre": "Nombre de la modificación",
           "descripcion": "Descripción de la modificación",
-          "precio": "$xxx.xx MXN",
+          "precio": "$3,141.53 MXN",
           "imagen": "img/placeholder.png"
         }
       ]
@@ -59,13 +59,13 @@
         {
           "nombre": "Nombre de la modificación",
           "descripcion": "Descripción de la modificación",
-          "precio": "$xxx.xx MXN",
+          "precio": "$3,141.53 MXN",
           "imagen": "img/placeholder.png"
         },
         {
           "nombre": "Nombre de la modificación",
           "descripcion": "Descripción de la modificación",
-          "precio": "$xxx.xx MXN",
+          "precio": "$3,141.53 MXN",
           "imagen": "img/placeholder.png"
         }
       ]
@@ -79,7 +79,7 @@
         {
           "nombre": "Nombre de la modificación",
           "descripcion": "Descripción de la modificación",
-          "precio": "$xxx.xx MXN",
+          "precio": "$3,141.53 MXN",
           "imagen": "img/placeholder.png"
         }
       ]
@@ -93,7 +93,7 @@
         {
           "nombre": "Nombre de la modificación",
           "descripcion": "Descripción de la modificación",
-          "precio": "$xxx.xx MXN",
+          "precio": "$3,141.53 MXN",
           "imagen": "img/placeholder.png"
         }
       ]
@@ -101,29 +101,99 @@
   ],
   "playstation": [
     {
-      "nombre": "PlayStation 2",
-      "slug": "playstation-2",
-      "descripcion": "Descripción corta de la consola.",
-      "imagen": "img/placeholder.png",
+      "nombre": "PlayStation",
+      "slug": "playstation",
+      "descripcion": "Evolución desde los cartuchos.",
+      "imagen": "img/ps1.png",
       "modificaciones": [
         {
           "nombre": "Nombre de la modificación",
           "descripcion": "Descripción de la modificación",
-          "precio": "$xxx.xx MXN",
+          "precio": "$3,141.53 MXN",
           "imagen": "img/placeholder.png"
         }
       ]
     },
     {
-      "nombre": "PSP",
-      "slug": "psp",
-      "descripcion": "Descripción corta de la consola.",
-      "imagen": "img/placeholder.png",
+      "nombre": "PlayStation 2",
+      "slug": "playstation-2",
+      "descripcion": "La consola más vendida (Según Sony).",
+      "imagen": "img/ps2.png",
       "modificaciones": [
         {
           "nombre": "Nombre de la modificación",
           "descripcion": "Descripción de la modificación",
-          "precio": "$xxx.xx MXN",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "PlayStation 3",
+      "slug": "playstation-3",
+      "descripcion": "La última de Kutaragi.",
+      "imagen": "img/ps3.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "PlayStation 4",
+      "slug": "playstation-4",
+      "descripcion": "Es normal que parezca que va a despegar, pero el mantenimiento no está demás.",
+      "imagen": "img/ps4.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "PlayStation 5",
+      "slug": "playstation-5",
+      "descripcion": "¿Será que ya da lo mismo comprar la versión digital a la versión con lector?",
+      "imagen": "img/ps5.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "PlayStation Portable (PSP)",
+      "slug": "psp",
+      "descripcion": "Digno competidor a la DS.",
+      "imagen": "img/psp.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "PlayStation Vita (PS Vita)",
+      "slug": "vita",
+      "descripcion": "El TouchPad de atrás está lindo, ¿No?",
+      "imagen": "img/vita.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
           "imagen": "img/placeholder.png"
         }
       ]
@@ -131,15 +201,15 @@
   ],
   "xbox": [
     {
-      "nombre": "Xbox Series X",
-      "slug": "xbox-series-x",
-      "descripcion": "Descripción corta de la consola.",
-      "imagen": "img/placeholder.png",
+      "nombre": "Xbox Classic",
+      "slug": "xbox-classic",
+      "descripcion": "Jugarlo por primera vez es una experiencia casi religiosa.",
+      "imagen": "img/xclass.png",
       "modificaciones": [
         {
           "nombre": "Nombre de la modificación",
           "descripcion": "Descripción de la modificación",
-          "precio": "$xxx.xx MXN",
+          "precio": "$3,141.53 MXN",
           "imagen": "img/placeholder.png"
         }
       ]
@@ -147,13 +217,55 @@
     {
       "nombre": "Xbox 360",
       "slug": "xbox-360",
-      "descripcion": "Descripción corta de la consola.",
-      "imagen": "img/placeholder.png",
+      "descripcion": "Déjame adivinar, ¿Anillo rojo?",
+      "imagen": "img/x360.png",
       "modificaciones": [
         {
           "nombre": "Nombre de la modificación",
           "descripcion": "Descripción de la modificación",
-          "precio": "$xxx.xx MXN",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Xbox One",
+      "slug": "xbox-one",
+      "descripcion": "¿Cómo que no se llama Xbox 720?",
+      "imagen": "img/xone.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Xbox One Series S",
+      "slug": "xbox-one-s",
+      "descripcion": "Compacta, potente, e incapaz de leer discos.",
+      "imagen": "img/xones.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Xbox One Series X",
+      "slug": "xbox-one-x",
+      "descripcion": "Refrigerador de última generación.",
+      "imagen": "img/xonex.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
           "imagen": "img/placeholder.png"
         }
       ]
@@ -169,7 +281,7 @@
         {
           "nombre": "Nombre de la modificación",
           "descripcion": "Descripción de la modificación",
-          "precio": "$xxx.xx MXN",
+          "precio": "$3,141.53 MXN",
           "imagen": "img/placeholder.png"
         }
       ]
@@ -185,7 +297,7 @@
         {
           "nombre": "Nombre de la modificación",
           "descripcion": "Descripción de la modificación",
-          "precio": "$xxx.xx MXN",
+          "precio": "$3,141.53 MXN",
           "imagen": "img/placeholder.png"
         }
       ]

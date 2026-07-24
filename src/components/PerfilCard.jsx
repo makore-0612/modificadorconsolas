@@ -1,10 +1,10 @@
-import placeholder from '../../assets/placeholder.png'
+import pfp from '../../assets/pfp.jpeg'
 
 function PerfilCard() {
   return (
     <div className="ffvii-card flex h-full items-center gap-4 p-4 sm:gap-6 sm:p-6">
       <img
-        src={placeholder}
+        src={pfp}
         alt="Foto de perfil"
         className="h-20 w-20 shrink-0 border border-gray-300 object-cover sm:h-35 sm:w-35"
       />

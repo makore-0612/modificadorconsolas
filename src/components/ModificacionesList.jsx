@@ -15,7 +15,8 @@ function ModificacionesList({ modificaciones }) {
               className="flex gap-4 border-b border-gray-300/40 pb-4 last:border-b-0 last:pb-0"
             >
               <img
-                src={placeholder}
+                src={`${import.meta.env.BASE_URL}${item.imagen}`}
+                onError={(e) => { e.currentTarget.src = placeholder }}
                 alt=""
                 className="h-50 w-50 shrink-0 border border-gray-300 object-cover"
               />

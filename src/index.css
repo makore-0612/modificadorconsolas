@@ -67,6 +67,7 @@
 }
 
 .ffvii-card {
-  border: 1px solid rgba(203, 213, 225, 0.7);
+  border: 5px solid rgba(203, 213, 225, 0.7);
+  border-radius: var(--radius-lg);
   background: rgba(0, 0, 0, 0.15);
 }

@@ -16,12 +16,13 @@ function ConsolasList({ franquicia, consolas }) {
               className="flex gap-4 border-b border-gray-300/40 pb-4 last:border-b-0 last:pb-0"
             >
               <img
-                src={placeholder}
+                src={`${import.meta.env.BASE_URL}${consola.imagen}`}
+                onError={(e) => { e.currentTarget.src = placeholder }}
                 alt=""
-                className="h-20 w-20 shrink-0 border border-gray-300 object-cover"
+                className="h-30 w-30 shrink-0 border border-gray-300 object-cover"
               />
               <div>
-                <p className="font-bold">{consola.nombre}</p>
+                <p className="font-bold sm:text-xl">{consola.nombre}</p>
                 <p className="text-sm text-gray-300">{consola.descripcion}</p>
                 <Link
                   to={`/franquicia/${franquicia}/consola/${consola.slug}`}
