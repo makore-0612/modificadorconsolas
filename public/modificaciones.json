@@ -24,7 +24,7 @@
       "nombre": "SG-1000",
       "slug": "sg-1000",
       "descripcion": "El salto de los Arcade a lo doméstico.",
-      "imagen": "img/placeholder.png",
+      "imagen": "img/sg1000.png",
       "modificaciones": [
         {
           "nombre": "Nombre de la modificación",
@@ -37,8 +37,8 @@
     {
       "nombre": "Master System",
       "slug": "master-system",
-      "descripcion": "Descripción corta de la consola.",
-      "imagen": "img/placeholder.png",
+      "descripcion": "Popular en Brasil con ventas hasta los 2010's.",
+      "imagen": "img/mastersys.png",
       "modificaciones": [
         {
           "nombre": "Nombre de la modificación",
@@ -51,8 +51,8 @@
     {
       "nombre": "Mega Drive/Genesis, 32X",
       "slug": "genesis",
-      "descripcion": "Descripción corta de la consola.",
-      "imagen": "img/placeholder.png",
+      "descripcion": "¿Sabías que llegó a tener mandos inalámbricos y juego online?",
+      "imagen": "img/genesis.png",
       "modificaciones": [
         {
           "nombre": "Nombre de la modificación",
@@ -65,8 +65,8 @@
     {
       "nombre": "Game Gear",
       "slug": "game-gear",
-      "descripcion": "Descripción corta de la consola.",
-      "imagen": "img/placeholder.png",
+      "descripcion": "Difícil competir contra la Game Boy.",
+      "imagen": "img/gamegear.png",
       "modificaciones": [
         {
           "nombre": "Nombre de la modificación",
@@ -79,8 +79,8 @@
     {
       "nombre": "Mega CD/SEGA CD",
       "slug": "sega-cd",
-      "descripcion": "Descripción corta de la consola.",
-      "imagen": "img/placeholder.png",
+      "descripcion": "Sabemos que es técnicamente un accesorio y no una consola.",
+      "imagen": "img/segacd.png",
       "modificaciones": [
         {
           "nombre": "Nombre de la modificación",
@@ -93,8 +93,8 @@
     {
       "nombre": "SEGA Saturn",
       "slug": "saturn",
-      "descripcion": "Descripción corta de la consola.",
-      "imagen": "img/placeholder.png",
+      "descripcion": "El comienzo del fin para SEGA.",
+      "imagen": "img/saturn.png",
       "modificaciones": [
         {
           "nombre": "Nombre de la modificación",
@@ -495,12 +495,12 @@
       ]
     }
   ],
-  "neogeo": [
+  "arcade": [
     {
-      "nombre": "Neo Geo AES",
-      "slug": "neo-geo-aes",
-      "descripcion": "Descripción corta de la consola.",
-      "imagen": "img/placeholder.png",
+      "nombre": "NeoGeo MVS",
+      "slug": "mvs",
+      "descripcion": "La nostalgia de regresar con las tortillas frías dos horas tarde.",
+      "imagen": "img/neomvs.png",
       "modificaciones": [
         {
           "nombre": "Nombre de la modificación",
@@ -509,14 +509,26 @@
           "imagen": "img/placeholder.png"
         }
       ]
-    }
-  ],
-  "arcade": [
+    },
     {
-      "nombre": "Placa Arcade JAMMA",
-      "slug": "placa-arcade-jamma",
-      "descripcion": "Descripción corta de la consola.",
-      "imagen": "img/placeholder.png",
+      "nombre": "Sammy Corporation AtomisWave",
+      "slug": "atomiswave",
+      "descripcion": "Basado en la SEGA NAOMI (a su vez basada en la Dreamcast. Qué cosas, ¿no?). ",
+      "imagen": "img/atomiswave.png",
+      "modificaciones": [
+        {
+          "nombre": "Nombre de la modificación",
+          "descripcion": "Descripción de la modificación",
+          "precio": "$3,141.53 MXN",
+          "imagen": "img/placeholder.png"
+        }
+      ]
+    },
+    {
+      "nombre": "BrezzaSoft Crystal System",
+      "slug": "crystal",
+      "descripcion": "Muy seguramente no la conocías.",
+      "imagen": "img/crystalsystem.png",
       "modificaciones": [
         {
           "nombre": "Nombre de la modificación",

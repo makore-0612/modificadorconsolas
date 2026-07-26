@@ -7,7 +7,7 @@ function ConsolasList({ franquicia, consolas }) {
       <div className="flex flex-1 flex-col gap-4 overflow-y-auto pr-1 lg:min-h-0">
         {consolas.length === 0 ? (
           <p className="text-sm text-gray-300">
-            Aún no hay consolas registradas para esta franquicia.
+            Aún no hay consolas registradas con modificaciones o reparaciones para esta franquicia.
           </p>
         ) : (
           consolas.map((consola) => (

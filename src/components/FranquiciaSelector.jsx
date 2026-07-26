@@ -5,7 +5,6 @@ export const FRANQUICIAS = [
   { nombre: 'Nintendo', slug: 'nintendo', className: 'border-red-500 text-red-400 hover:bg-red-500/10' },
   { nombre: 'PlayStation', slug: 'playstation', className: 'border-sky-400 text-sky-300 hover:bg-sky-400/10' },
   { nombre: 'Xbox', slug: 'xbox', className: 'border-green-500 text-green-400 hover:bg-green-500/10' },
-  { nombre: 'NeoGeo', slug: 'neogeo', className: 'border-amber-400 text-amber-300 hover:bg-amber-400/10' },
   { nombre: 'Arcade', slug: 'arcade', className: 'border-violet-400 text-violet-300 hover:bg-violet-400/10' },
   { nombre: 'Otros', slug: 'otros', className: 'border-black-400 text-black-300 hover:bg-black-400/10' },
 ]
