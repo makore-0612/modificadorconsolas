@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import placeholder from '../../assets/placeholder.png'
 
 function ModificacionesList({ modificaciones }) {
