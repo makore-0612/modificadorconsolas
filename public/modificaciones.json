@@ -10,79 +10,79 @@
           "nombre": "BIOS Dual (Con switch de intercambio Alternativa/Original)",
           "descripcion": "BIOS programado on DreamShell de última versión (o similar) para ejecuci+on de juegos desde MicroSD o Disco duro sin necesidad de lector de discos (o en caso de que el lector no sea funcional)",
           "precio": "$500.00 MXN",
-          "imagen": "img/placeholder.png"
+          "imagen": "img/1.png"
         },
         {
           "nombre": "Reparación de láser",
           "descripcion": "¿No lee correctamente el láser? Realizamos revisión y rehabilitación en 80% siempre y cuando no hayan sido manipulados previamente. Costo acorde a fallos detectados en revisión. La revisión no tiene costo.",
           "precio": "Variable",
-          "imagen": "img/placeholder.png"
+          "imagen": "img/2.png"
         },
         {
           "nombre": "SD (Requiere BIOS Dual)",
           "descripcion": "Realizamos modificación de puerto para ejecución de juegos y emuladores desde SD. El costo no incluye la SD o los juegos, esto último irá acorde a capacidad y cantidad deseada.",
           "precio": "$250.00 MXN",
-          "imagen": "img/placeholder.png"
+          "imagen": "img/3.png"
         },
         {
           "nombre": "Puerto VGA",
           "descripcion": "Habilitación de conexión a pantallas y monitores compatibles para jugar a resolución de 480p. Incluye RCA para audio (canales izquierdo y derecho) y switch selector de modo VGA/RCA.",
           "precio": "$500.00 MXN",
-          "imagen": "img/placeholder.png"
+          "imagen": "img/4.png"
         },
         {
           "nombre": "BITFUNX CC HDMI Kit",
           "descripcion": "Instalación de kit para habilitación de conexión de video HDMI. El costo incluye kit e instalación (Sin embargo, se encuentra sujeto al costo y disponibilidad del kit).",
           "precio": "$1700.00 MXN",
-          "imagen": "img/placeholder.png"
+          "imagen": "img/5.png"
         },
         {
           "nombre": "HDMI a través de VGA",
           "descripcion": "A partir de la modificación VGA se añade un convertidor VGA-HDMI, obteniendo video a 480p de excelente calidad. Incluye sonido desde la salida HDMI y switch selector para modo HDMI/RCA.",
           "precio": "$1000.00 MXN",
-          "imagen": "img/placeholder.png"
+          "imagen": "img/6.png"
         },
         {
           "nombre": "Disco Duro SATA 2.5 (Puede requerir BIOS Dual)",
           "descripcion": "Se añade una entrada para conexión en la parte posterior de la consola. Su funcionamiento requiere lector para Boot a través de un CD o, en su defecto, modificación BIOS Dual.",
           "precio": "$800.00 MXN",
-          "imagen": "img/placeholder.png"
+          "imagen": "img/7.png"
         },
         {
           "nombre": "Base para batería",
           "descripcion": "Para evitar la configuración inicial cada vez que se reinicia el sistema, se coloca una base para batería CR2032 para cambiar a voluntad facilitando el guardado de información.",
           "precio": "$250.00 MXN",
-          "imagen": "img/placeholder.png"
+          "imagen": "img/8.png"
         },
         {
           "nombre": "Cambio de región por medio de CD",
           "descripcion": "Modificación interna para ejecutar juegos originales a través de un CD (incluido) distintos a la región de la consola.",
           "precio": "$250.00 MXN",
-          "imagen": "img/placeholder.png"
+          "imagen": "img/9.png"
         },
         {
           "nombre": "Cambio de color de LED de encendido",
           "descripcion": "Cambio de color de red frontal al deseado: Amarillo, blanco, azul, ámbar, verde y rojo.",
           "precio": "$150.00 MXN",
-          "imagen": "img/placeholder.png"
+          "imagen": "img/10.png"
         },
         {
           "nombre": "RCA externa",
           "descripcion": "Si no cuentas con el cable de video original, se le coloca una RCA externa para poder hacer uso de cualquier otro cable.",
           "precio": "$250.00 MXN",
-          "imagen": "img/placeholder.png"
+          "imagen": "img/1.png"
         },
         {
           "nombre": "Revisión y reparación de controles",
           "descripcion": "Precio acorde al fallo presente encontrado en revisión. La revisión no tiene costo.",
           "precio": "Variable",
-          "imagen": "img/placeholder.png"
+          "imagen": "img/2.png"
         },
         {
           "nombre": "Reparación de puertos",
           "descripcion": "Reparación en caso de que no reconozca la conexión de controles. El costo incluye la reparación de los cuatro puertos.",
           "precio": "$150.00 MXN",
-          "imagen": "img/placeholder.png"
+          "imagen": "img/3.png"
         }
       ]
     },
