@@ -8,7 +8,7 @@
       "modificaciones": [
         {
           "nombre": "BIOS Dual (Con switch de intercambio Alternativa/Original)",
-          "descripcion": "BIOS programado on DreamShell de última versión (o similar) para ejecuci+on de juegos desde MicroSD o Disco duro sin necesidad de lector de discos (o en caso de que el lector no sea funcional)",
+          "descripcion": "BIOS programado on DreamShell de última versión (o similar) para ejecución de juegos desde MicroSD o Disco duro sin necesidad de lector de discos (o en caso de que el lector no sea funcional)",
           "precio": "$500.00 MXN",
           "imagen": "img/1.png"
         },
@@ -87,30 +87,40 @@
       ]
     },
     {
-      "nombre": "Master System",
-      "slug": "master-system",
-      "descripcion": "Popular en Brasil con ventas hasta los 2010's.",
-      "imagen": "img/mastersys.png",
-      "modificaciones": [
-        {
-          "nombre": "Nombre de la modificación",
-          "descripcion": "Descripción de la modificación",
-          "precio": "$3,141.53 MXN",
-          "imagen": "img/placeholder.png"
-        }
-      ]
-    },
-    {
       "nombre": "Mega Drive/Genesis, 32X",
       "slug": "genesis",
       "descripcion": "¿Sabías que llegó a tener mandos inalámbricos y juego online?",
       "imagen": "img/genesis.png",
       "modificaciones": [
         {
-          "nombre": "Nombre de la modificación",
-          "descripcion": "Descripción de la modificación",
-          "precio": "$3,141.53 MXN",
-          "imagen": "img/placeholder.png"
+          "nombre": "Reparación de cartuchos",
+          "descripcion": "En caso de que no se lean correctamente, no almacenen avances, o parezcan ya no hacer nada, se reparan, limpian y cambia la batería interna. Precio según reparaciones necesarias halladas en revisión. La revisión no tiene costo.",
+          "precio": "Variable",
+          "imagen": "img/1.png"
+        },
+        {
+          "nombre": "RCA externa",
+          "descripcion": "Si no cuentas con el cable de video original, se le coloca una RCA externa para poder hacer uso de cualquier otro cable. Ofrece audio en sonido estéreo desde la salida de audífonos para control de volumen.",
+          "precio": "$250.00 MXN",
+          "imagen": "img/2.png"
+        },
+        {
+          "nombre": "Revisión y reparación de controles",
+          "descripcion": "Precio acorde al fallo presente encontrado en revisión. La revisión no tiene costo.",
+          "precio": "Variable",
+          "imagen": "img/3.png"
+        },
+        {
+          "nombre": "Cambio de capacitores (condensadores)",
+          "descripcion": "Si no hay señal de audio, video o errores gráficos es posible que se deba a los capacitores (condensadores). Precio acorde al número de capacitores a reemplazar y sujeto al costo de las refacciones.",
+          "precio": "$800.00 MXN (para todos los capacitores)",
+          "imagen": "img/4.png"
+        },
+        {
+          "nombre": "Cambio de color de LED de encendido ",
+          "descripcion": "Cambio de color de red frontal al deseado: Amarillo, blanco, azul, ámbar, verde y rojo.",
+          "precio": "$150.00 MXN",
+          "imagen": "img/5.png"
         }
       ]
     },
@@ -121,10 +131,28 @@
       "imagen": "img/gamegear.png",
       "modificaciones": [
         {
-          "nombre": "Nombre de la modificación",
-          "descripcion": "Descripción de la modificación",
-          "precio": "$3,141.53 MXN",
-          "imagen": "img/placeholder.png"
+          "nombre": "Cambio de potenciómetro de volumen.",
+          "descripcion": "Para problemas al subir y bajar el volumen de la consola.",
+          "precio": "$250.00 MXN",
+          "imagen": "img/1.png"
+        },
+        {
+          "nombre": "Retroiluminación LED",
+          "descripcion": "Cambio de lámpara integrada detrás del display por una tira LED para jugar en entornos oscuros.",
+          "precio": "$300.00 MXN",
+          "imagen": "img/2.png"
+        },
+        {
+          "nombre": "Instalación de Kit LCD IPS de pantalla completa",
+          "descripcion": "Incluye instalación y garantía de tres meses. (Precio sujeto al costo y disponibilidad del kit)",
+          "precio": "$1000.00 MXN",
+          "imagen": "img/3.png"
+        },
+        {
+          "nombre": "Cambio de capacitores (condensadores)",
+          "descripcion": "Si no hay señal de audio, video o errores gráficos es posible que se deba a los capacitores (condensadores). Precio acorde al número de capacitores a reemplazar y sujeto al costo de las refacciones.",
+          "precio": "$700.00 MXN (para todos los capacitores)",
+          "imagen": "img/4.png"
         }
       ]
     },
@@ -135,10 +163,16 @@
       "imagen": "img/segacd.png",
       "modificaciones": [
         {
-          "nombre": "Nombre de la modificación",
-          "descripcion": "Descripción de la modificación",
-          "precio": "$3,141.53 MXN",
-          "imagen": "img/placeholder.png"
+          "nombre": "Reparación de mecanismo de láser",
+          "descripcion": "¿No sale la charola o se quedan atascados los discos?, puede solucionarse con nuestro servicio de limpieza, engrasado y cambio de banda.",
+          "precio": "$500.00 MXN",
+          "imagen": "img/1.png"
+        },
+        {
+          "nombre": "Cambio de capacitores (condensadores)",
+          "descripcion": "Si no hay señal de audio, video o errores gráficos es posible que se deba a los capacitores (condensadores). Precio acorde al número de capacitores a reemplazar y sujeto al costo de las refacciones. Incluye los de la fuente de poder y placa principal.",
+          "precio": "$1000.00 MXN (para todos los capacitores)",
+          "imagen": "img/2.png"
         }
       ]
     },
@@ -149,10 +183,22 @@
       "imagen": "img/saturn.png",
       "modificaciones": [
         {
-          "nombre": "Nombre de la modificación",
-          "descripcion": "Descripción de la modificación",
-          "precio": "$3,141.53 MXN",
-          "imagen": "img/placeholder.png"
+          "nombre": "RCA externa",
+          "descripcion": "Si no cuentas con el cable de video original, se le coloca una RCA externa para poder hacer uso de cualquier otro cable.",
+          "precio": "$250.00 MXN",
+          "imagen": "img/1.png"
+        },
+        {
+          "nombre": "Cambio de capacitores (condensadores)",
+          "descripcion": "Si no hay señal de audio, video o errores gráficos es posible que se deba a los capacitores (condensadores). Precio acorde al número de capacitores a reemplazar y sujeto al costo de las refacciones.",
+          "precio": "$800.00 MXN (para todos los capacitores)",
+          "imagen": "img/2.png"
+        },
+        {
+          "nombre": "Revisión y reparación de controles",
+          "descripcion": "Precio acorde al fallo presente encontrado en revisión. La revisión no tiene costo.",
+          "precio": "Variable",
+          "imagen": "img/3.png"
         }
       ]
     }
@@ -171,10 +217,10 @@
           "imagen": "img/placeholder.png"
         },
         {
-          "nombre": "Nombre de la modificación",
-          "descripcion": "Descripción de la modificación",
-          "precio": "$3,141.53 MXN",
-          "imagen": "img/placeholder.png"
+          "nombre": "",
+          "descripcion": "",
+          "precio": "$.00 MXN",
+          "imagen": "img/.png"
         }
       ]
     },
@@ -189,6 +235,12 @@
           "descripcion": "Descripción de la modificación",
           "precio": "$3,141.53 MXN",
           "imagen": "img/placeholder.png"
+        },
+        {
+          "nombre": "",
+          "descripcion": "",
+          "precio": "$.00 MXN",
+          "imagen": "img/.png"
         }
       ]
     },
@@ -203,6 +255,12 @@
           "descripcion": "Descripción de la modificación",
           "precio": "$3,141.53 MXN",
           "imagen": "img/placeholder.png"
+        },
+        {
+          "nombre": "",
+          "descripcion": "",
+          "precio": "$.00 MXN",
+          "imagen": "img/.png"
         }
       ]
     },
