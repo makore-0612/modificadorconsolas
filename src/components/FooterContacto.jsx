@@ -9,7 +9,7 @@ function FooterContacto() {
         <img src={glove} alt="" className="h-8 w-12" /> Envíame un mensaje para realizar lo que tienes en mente
       </p>
       <p className="text-sm text-gray-300">
-        Contáctame a través de mis redes para realizar una cotización:
+        Los precios están sujetos a disponibilidad y costo del material a utilizar. Contáctame a través de mis redes para realizar una cotización:
       </p>
       <div className="flex justify-center gap-4">
         <a

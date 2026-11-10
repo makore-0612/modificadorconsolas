@@ -211,16 +211,22 @@
       "imagen": "img/nes.png",
       "modificaciones": [
         {
-          "nombre": "Nombre de la modificación",
-          "descripcion": "Descripción de la modificación",
-          "precio": "$3,141.53 MXN",
-          "imagen": "img/placeholder.png"
+          "nombre": "Reparación de cartuchos",
+          "descripcion": "En caso de que no se lean correctamente, no almacenen avances, o parezcan ya no hacer nada, se reparan, limpian y cambia la batería interna. Precio según reparaciones pertinentes. La revisión no tiene costo.",
+          "precio": "Variable",
+          "imagen": "img/1.png"
         },
         {
-          "nombre": "",
-          "descripcion": "",
-          "precio": "$.00 MXN",
-          "imagen": "img/.png"
+          "nombre": "Cambio de conector 72 pines (Lector de juegos)",
+          "descripcion": "Cambio de peine en caso de que ya no lea correctamente cartuchos. Incluye instalación y servicio de limpieza a la consola.",
+          "precio": "$700.00 MXN",
+          "imagen": "img/2.png"
+        },
+        {
+          "nombre": "Revisión y reparación de controles",
+          "descripcion": "Precio acorde al fallo presente encontrado en revisión. La revisión no tiene costo.",
+          "precio": "Variable",
+          "imagen": "img/3.png"
         }
       ]
     },
@@ -231,16 +237,28 @@
       "imagen": "img/famicom.png",
       "modificaciones": [
         {
-          "nombre": "Nombre de la modificación",
-          "descripcion": "Descripción de la modificación",
-          "precio": "$3,141.53 MXN",
-          "imagen": "img/placeholder.png"
+          "nombre": "Cambio de regulador de voltaje",
+          "descripcion": "¿La consola no enciende? No te apures, aún tiene solución. Cambiamos el regulador y resoldamos la entrada de alimentación.",
+          "precio": "$400.00 MXN",
+          "imagen": "img/1.png"
         },
         {
-          "nombre": "",
-          "descripcion": "",
-          "precio": "$.00 MXN",
-          "imagen": "img/.png"
+          "nombre": "Revisión y reparación de controles",
+          "descripcion": "Precio acorde al fallo presente encontrado en revisión. La revisión no tiene costo.",
+          "precio": "Variable",
+          "imagen": "img/2.png"
+        },
+        {
+          "nombre": "Reparación de cartuchos",
+          "descripcion": "En caso de que no se lean correctamente, no almacenen avances, o parezcan ya no hacer nada, se reparan, limpian y cambia la batería interna. Precio según reparaciones necesarias halladas en revisión. La revisión no tiene costo.",
+          "precio": "Variable",
+          "imagen": "img/3.png"
+        },
+        {
+          "nombre": "RCA externa",
+          "descripcion": "Si no cuentas con el cable de video original, se le coloca una RCA externa para poder hacer uso de cualquier otro cable.",
+          "precio": "$400.00 MXN",
+          "imagen": "img/4.png"
         }
       ]
     },
@@ -251,10 +269,54 @@
       "imagen": "img/gameboy.png",
       "modificaciones": [
         {
-          "nombre": "Nombre de la modificación",
-          "descripcion": "Descripción de la modificación",
-          "precio": "$3,141.53 MXN",
-          "imagen": "img/placeholder.png"
+          "nombre": "Cambio de capacitores (condensadores)",
+          "descripcion": "Si no hay señal de audio, video o errores gráficos es posible que se deba a los capacitores (condensadores). Precio sujeto al costo de las refacciones.  Incluye todos los condensadores.",
+          "precio": "$400.00 MXN",
+          "imagen": "img/1.png"
+        },
+        {
+          "nombre": "Instalación de Kit LCD IPS de pantalla completa",
+          "descripcion": "Incluye instalación y garantía de tres meses. (Precio sujeto al costo y disponibilidad del kit)",
+          "precio": "$1,200.00 MXN",
+          "imagen": "img/2.png"
+        },
+        {
+          "nombre": "RetroBoy Kit",
+          "descripcion": "¡Ahórrate las baterías!, el kit permite habilitar una batería recargable. Basta con conectarla como si de un celular se tratase. (Precio sujeto al costo y disponibilidad del kit)",
+          "precio": "$1,000.00 MXN",
+          "imagen": "img/3.png"
+        }
+      ]
+    },
+    {
+      "nombre": "Super NES/Super FamiCom",
+      "slug": "super-nes",
+      "descripcion": "Qué afán de nombrar una consola dependiendo la región.",
+      "imagen": "img/snes.png",
+      "modificaciones": [
+        {
+          "nombre": "",
+          "descripcion": "",
+          "precio": "$.00 MXN",
+          "imagen": "img/.png"
+        },
+        {
+          "nombre": "",
+          "descripcion": "",
+          "precio": "$.00 MXN",
+          "imagen": "img/.png"
+        },
+        {
+          "nombre": "",
+          "descripcion": "",
+          "precio": "$.00 MXN",
+          "imagen": "img/.png"
+        },
+        {
+          "nombre": "",
+          "descripcion": "",
+          "precio": "$.00 MXN",
+          "imagen": "img/.png"
         },
         {
           "nombre": "",
@@ -265,44 +327,22 @@
       ]
     },
     {
-      "nombre": "Super FamiCom",
-      "slug": "super-famicom",
-      "descripcion": "Qué afán de nombrar una consola dependiendo la región.",
-      "imagen": "img/sfamicom.png",
-      "modificaciones": [
-        {
-          "nombre": "Nombre de la modificación",
-          "descripcion": "Descripción de la modificación",
-          "precio": "$3,141.53 MXN",
-          "imagen": "img/placeholder.png"
-        }
-      ]
-    },
-    {
-      "nombre": "Super NES",
-      "slug": "super-nes",
-      "descripcion": "Ya sabemos que la pusimos dos veces en la lista.",
-      "imagen": "img/snes.png",
-      "modificaciones": [
-        {
-          "nombre": "Nombre de la modificación",
-          "descripcion": "Descripción de la modificación",
-          "precio": "$3,141.53 MXN",
-          "imagen": "img/placeholder.png"
-        }
-      ]
-    },
-    {
       "nombre": "Nintendo 64",
       "slug": "n64",
       "descripcion": "¿Eres de los que se atrevieron a lanzar al pingüino o de los que no pudieron pasar el Templo del Agua?",
       "imagen": "img/n64.png",
       "modificaciones": [
         {
-          "nombre": "Nombre de la modificación",
-          "descripcion": "Descripción de la modificación",
-          "precio": "$3,141.53 MXN",
-          "imagen": "img/placeholder.png"
+          "nombre": "",
+          "descripcion": "",
+          "precio": "$.00 MXN",
+          "imagen": "img/.png"
+        },
+        {
+          "nombre": "",
+          "descripcion": "",
+          "precio": "$.00 MXN",
+          "imagen": "img/.png"
         }
       ]
     },
@@ -313,10 +353,16 @@
       "imagen": "img/gameboyc.png",
       "modificaciones": [
         {
-          "nombre": "Nombre de la modificación",
-          "descripcion": "Descripción de la modificación",
-          "precio": "$3,141.53 MXN",
-          "imagen": "img/placeholder.png"
+          "nombre": "",
+          "descripcion": "",
+          "precio": "$.00 MXN",
+          "imagen": "img/.png"
+        },
+        {
+          "nombre": "",
+          "descripcion": "",
+          "precio": "$.00 MXN",
+          "imagen": "img/.png"
         }
       ]
     },
@@ -327,10 +373,16 @@
       "imagen": "img/gamecube.png",
       "modificaciones": [
         {
-          "nombre": "Nombre de la modificación",
-          "descripcion": "Descripción de la modificación",
-          "precio": "$3,141.53 MXN",
-          "imagen": "img/placeholder.png"
+          "nombre": "",
+          "descripcion": "",
+          "precio": "$.00 MXN",
+          "imagen": "img/.png"
+        },
+        {
+          "nombre": "",
+          "descripcion": "",
+          "precio": "$.00 MXN",
+          "imagen": "img/.png"
         }
       ]
     },
